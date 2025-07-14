@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function App() {
   return (
     <main className="p-4">
-      <h1 className="text-2xl font-bold mb-4">Fryskoll2</h1>
+      <h1 className="text-2xl font-bold mb-4">Fryskoll</h1>
       <Button>Skapa ny vara</Button>
       <nav>
         <ul>
