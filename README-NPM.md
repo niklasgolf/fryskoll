@@ -55,3 +55,26 @@ npm run dev
 - Local: http://localhost:3001
 
 ---
+
+npm install lucide-react
+
+up to date, audited 407 packages in 966ms
+
+169 packages are looking for funding
+run `npm fund` for details
+
+found 0 vulnerabilities
+
+---
+
+🔁 Ikoner som används
+📷 Camera → för scanning
+
+✏️ PencilLine → för manuell inmatning
+
+⚙️ Settings → för inställningar
+
+Du kan byta till t.ex. ChefHat, Fridge, BookOpenText m.fl. från Lucide om du vill göra det ännu tydligare:
+👉 https://lucide.dev/icons
+
+---
